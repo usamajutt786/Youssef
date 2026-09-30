@@ -1,0 +1,6 @@
+{
+  "name": "Optique - Multi-Vendor Eyewear Marketplace",
+  "description": "Interactive multi-vendor eyewear marketplace with 2D photo virtual try-on, multi-seller cart, cash on delivery, French & Arabic localization, and dedicated customer, seller, and administrator panels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
